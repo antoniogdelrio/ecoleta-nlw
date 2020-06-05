@@ -1,4 +1,4 @@
-# :recycle: Ecoleta - Next Level Week :recycle: #
+# Ecoleta - Next Level Week :recycle: #
 
 Aplicação desenvolvida na 1ª Next Level Week da Rocketseat :rocket:. O Ecoleta é um marketplace que visa conectar empresas que coletam resíduos e indivíduos interessados em descartá-los.
 
